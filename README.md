@@ -1,2 +1,2 @@
 # leggere-morra
-📰 Newspaper
+📰 giornale locale
