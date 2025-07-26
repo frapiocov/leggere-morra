@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![me](/assets/images/gionatasso.png "me")
+![me](https://frapiocov.github.io/leggere-morra/assets/images/gionatasso.png "me")

@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 Il caso del fantasma di Morra e cosa ho scoperto
 
-<img src="/assets/images/fantasma_giorno.png" alt="fantasma" width="500"/>
+<img src="https://frapiocov.github.io/leggere-morra/assets/images/fantasma_giorno.png" alt="fantasma" width="500"/>
