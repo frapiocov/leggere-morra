@@ -13,4 +13,4 @@ Abbiamo la passione per il true crime, ci ispiriamo alla filosofia di Sherlock H
 Questo sono io dal parrucchiere, ma non so se può interessarvi.
 
 
-<img src="/leggere-morra/assets/images/hair.png" alt="drawing" width="200"/>
+<img src="https://frapiocov.github.io/leggere-morra/assets/images/hair.png" alt="drawing" width="200"/>
