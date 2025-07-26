@@ -4,3 +4,4 @@
 
 layout: home
 ---
+![me](/assets/images/gionatasso.png "me")
