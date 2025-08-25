@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Il caso Mariuccia"
-date:   2025-09-05 11:45:10 +0200
+date:   2024-09-05 11:45:10 +0200
 categories: mistery
 ---
 Maria conosciuta da tutti come Mariuccia è stata trovata esanime, nell'articolo di oggi si parla di lei. Le mie più doverose condoglianze vanno alla famiglia, Mariuccia viveva qui da sola, arrivata in paese 7 anni fa.
