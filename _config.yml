@@ -30,13 +30,8 @@ url: "https://frapiocov.github.io/leggere-morra" # the base hostname & protocol 
 # Build settings
 theme: minima
 
-minima:
-    minima:
-    hide_site_feed_link: true
-    skin: solarized-light
 
-plugins:
-  - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
