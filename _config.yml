@@ -32,11 +32,6 @@ theme: minima
 plugins:
   - jekyll-feed
 minima:
-  skin: "light"
-  accent_color: "#FF5733"
-  header:
-    title: "Il blog di Gionatasso"
-    description: "Benvenuto nel blog di Gionatasso, il blog libero di Leggere Morra!"
     feed_show: false
 # Exclude from processing.
 # The following items will not be processed, by default.
