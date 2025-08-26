@@ -32,4 +32,4 @@ Per il momento, vi allego alcuni documenti del caso di Mariuccia a Firenze.
 C’è qualcosa di grottescamente sacro nel fatto che Mariuccia sia stata sgozzata in via San Cristofano — lei, prostituta dimenticata, finita sotto la lama di un rasoio — mentre il santo da cui la via prende il nome, San Cristofano, morì decapitato per la fede.
 
 
-Uno perse la testa in nome di Dio, l’altra la gola per un uomo che si è creduto
+Uno perse la testa in nome di Dio, l’altra la gola per un uomo che si è creduto Dio.

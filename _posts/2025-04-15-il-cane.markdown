@@ -44,4 +44,4 @@ E un cartello:
 Non tutti i misteri nascono dal male. Alcuni, come questo, nascono dalla fame. O dalla curiosità. O da un semplice richiamo di primavera.
 Ma in ogni caso, le impronte parlano. Basta saperle leggere.
 
-<img src="https://frapiocov.github.io/leggere-morra/assets/images/teresa.png" alt="teresa" width="500"/>
+<img src="https://frapiocov.github.io/leggere-morra/assets/images/cane.jpg" alt="teresa" width="500"/>
