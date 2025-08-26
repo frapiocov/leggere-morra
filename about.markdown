@@ -1,15 +1,12 @@
 ---
 layout: page
-title: Chi siamo
+title: Chi sono
 permalink: /about/
 ---
 
 Ci sono notizie che vanno al di là del semplice giornalismo, il seguente blog nasce per
-raccogliere le testimonianze raccolte durante i nostri casi risolti.
-Abbiamo la passione per il true crime, ci ispiriamo alla filosofia di Sherlock Holmes:
-
+raccogliere le testimonianze raccolte la mia vita da giornalista e curioso osservatore.
 -----------
-
 Questo sono io dal parrucchiere, ma non so se può interessarvi.
 
 
