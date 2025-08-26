@@ -4,6 +4,8 @@
 
 layout: home
 ---
-![me](https://frapiocov.github.io/leggere-morra/assets/images/gionatasso.png "me")
+![me](https://frapiocov.github.io/leggere-morra/assets/images/gion.png "me")
 
-## Ciao sono Gionatasso, giornalista per lavoro ma anche per passione ✍️
+## Ciao sono Gionatasso, 
+## giornalista per lavoro ma anche per passione 
+📰 🎙️ ✍️
