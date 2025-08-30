@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<img src="https://frapiocov.github.io/leggere-morra/assets/images/gion.jpg" alt="sono proprio io" width="280" height="230">
+<img src="https://frapiocov.github.io/leggere-morra/assets/images/gion.jpg" alt="sono proprio io" width="300" height="380">
 
 ## Ciao sono Gionatasso, 
 ### Giornalista per lavoro ma soprattutto per passione 
