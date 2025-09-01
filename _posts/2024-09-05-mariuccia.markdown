@@ -16,7 +16,7 @@ I Carabinieri hanno iniziato le indagini e io sono a stretto contatto per cercar
 Sembra un caso, eppure la vicenda di Rosetta di qualche giorno fa a Morra ricorda la vicenda dell’8 giugno del 1742 a Firenze. Ricordavo di aver letto di questo fatto di cronaca in *101 perché sulla storia di Firenze che non puoi non sapere*, di Ippolita Douglas Scotti.
 
 
-Ci sono incredibili somiglianze nei due omicidi. verrebbe quasi da pensare che il nostro assassino in fuga fosse a conoscenza di questo fatto di cronaca e, preso dal panico, abbia preso spunto per organizzare il suo imperdonabile gesto.
+Ci sono incredibili somiglianze nei due omicidi. Verrebbe quasi da pensare che il nostro assassino in fuga fosse a conoscenza di questo fatto di cronaca e, preso dal panico, abbia preso spunto per organizzare il suo imperdonabile gesto.
 
 
 La differenza è che per ora non se ne conosce l’identità, e l’arma del delitto è ancora da trovare. Potrei avere una pista efficace per la ricerca dell’arma, ma non posso pubblicare apertamente ciò che penso.
