@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Il Fantasma di Morra"
-date:   2024-09-04 10:05:10 +0200
+date:   2025-09-04 10:05:10 +0200
 categories: mistery
 ---
 Sicuramente avrete letto l’articolo sul quotidiano leggereMorra, Mauro è uno dei cittadini più simpatici e sicuramente vi sarete fatti una risata.

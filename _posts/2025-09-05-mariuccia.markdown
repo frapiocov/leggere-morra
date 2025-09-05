@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Il caso Rosetta"
-date:   2024-09-05 11:45:10 +0200
+date:   2025-09-05 08:00:10 +0200
 categories: mistery
 ---
 Rosetta è stata trovata esanime, nell’articolo di oggi si parla di lei. Le più doverose condoglianze alla famiglia.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Il mistero del cane rosso"
-date:   2025-04-15 10:05:10 +0200
+date:   2025-08-29 10:05:10 +0200
 categories: mistery
 ---
 

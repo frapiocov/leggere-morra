@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Il caso del Macellaio della teglia"
-date:   2025-02-20 18:45:10 +0200
+date:   2025-07-20 18:45:10 +0200
 categories: mistery
 ---
 
